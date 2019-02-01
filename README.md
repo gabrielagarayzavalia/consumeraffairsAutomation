@@ -6,7 +6,7 @@
 
 3-download zip from github (https://github.com/gabrielagarayzavalia/consumeraffairsAutomation)
 
-4-extract to C:\ggAutomation\ (create folder or rename in project the paths to webdriver and to pictures) and name the project: 
+4-extract to C:\consumeraffairsAutomation\ (create folder or rename in project the paths to webdriver and to pictures) and name the project: 
 consumeraffairsAutomation/ (without the extension master)
 
 5-download selenium webdriver for chrome and place it in: C:\ggAutomation\ggzAutomation01\resourses\chromedriver_win32\chromedriver.exe
@@ -22,3 +22,6 @@ consumeraffairsAutomation/ (without the extension master)
 
 Notes: Work in progress: TCHP06 is disabled since there is an issue with nested webelements.
 Run HomePageTestCases.java as TestNG Test
+
+#Ohter
+Manual Test cases and bugs found at otherFiles folder: Part1-calculator.xlsx (sheet 1 = testcases / sheet 2 = bugs )
